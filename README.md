@@ -1,6 +1,6 @@
 ### Hi there, I'm Patlow - aka [Geekalgo][website] 👋
 
-[![Website](https://img.shields.io/website?label=geekalgo.com&style=for-the-badge&url=https%3A%2F%2Fhttps://geekalgo.com/)](https://geekalgo.com)
+[![Website](https://img.shields.io/website?label=geekalgo.com&style=for-the-badge&url=https://geekalgo.com/)](https://geekalgo.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/patlowpat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/patlowpat)
 
 
