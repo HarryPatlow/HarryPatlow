@@ -44,7 +44,7 @@
 
 </details>
 
-<details>
+
   <summary>:Patlow's GitHub Stats</summary>
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=HarryPatlow.id)
@@ -59,7 +59,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-</details>
 
 [website]: https://geekalgo.com
 [twitter]: https://twitter.com/patlowpat
