@@ -21,6 +21,16 @@
 
 ---
 
+ ### 📈 Patlow's GitHub Stats
+
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=HarryPatlow.id)
+
+  <img height="180em" alt="Patlow's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HarryPatlow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+  <img height="180em" alt="Patlow's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPatlow" />
+
+---
+
 ### 💼 Paltow's Inventory
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
@@ -67,6 +77,7 @@
 
 ---
 
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -76,14 +87,6 @@
 
 </details>
 
-
-  <summary>:Patlow's GitHub Stats</summary>
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=HarryPatlow.id)
-
-  <img height="180em" alt="Patlow's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HarryPatlow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-  <img height="180em" alt="Patlow's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPatlow" />
 
   <!--START_SECTION:waka-->
 ```text
