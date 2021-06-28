@@ -54,7 +54,10 @@
   <img height="180em" alt="Patlow's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPatlow" />
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
 </details>
 
