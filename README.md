@@ -3,11 +3,16 @@
 [![Website](https://img.shields.io/website?label=geekalgo.com&style=for-the-badge&url=https://geekalgo.com/)](https://geekalgo.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/patlowpat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/patlowpat)
 
+![About Harry Patlow](https://raw.githubusercontent.com/HarryPatlow/HarryPatlow/main/READMEIMGS/about.gif.gif)
+
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Master Android App Developement
 - ⚡ Fun fact: I love to Draw, Read Books and Play Games
+<br>
+
+
 
 ### Connect with me:
 
