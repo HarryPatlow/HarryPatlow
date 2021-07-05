@@ -55,9 +55,21 @@
 <br />
 
 ---
+
+### 🌎 Patlow Understands
+
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/1024px-United-states_flag_icon_round.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/1200px-United-kingdom_flag_icon_round.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/HarryPatlow/HarryPatlow/main/READMEIMGS/34-349083_round-germany-flag-png-transparent-image-circle-german-removebg-preview.png" />
+
+<br />
+<br />
+
+---
+
 ### 🔨 Ongoing
 
-<img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" />
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/HarryPatlow/HarryPatlow/main/READMEIMGS/875-8753366_flask-framework-logo-svg-removebg-preview.png" />
 <img align="left" alt="Android Studio" width="26px" src="https://icones.pro/wp-content/uploads/2021/04/icone-robot-android-vert.png" />
 <img align="left" alt="Swift" width="26px" src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
