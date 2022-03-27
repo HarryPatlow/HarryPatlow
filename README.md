@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=geekalgo.com&style=for-the-badge&url=https://geekalgo.com/)](https://geekalgo.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/patlowpat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/patlowpat)
 
-![About Harry Patlow](https://raw.githubusercontent.com/HarryPatlow/HarryPatlow/main/READMEIMGS/about.gif.gif)
+![About Harry Patlow](https://github.com/HarryPatlow/HarryPatlow/blob/main/READMEIMGS/about2.gif)
 
 
 - 🌱 I’m currently learning everything 🤣
