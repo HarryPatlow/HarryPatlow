@@ -17,9 +17,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="geekalgo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Harry Patlow | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Harry Patlow | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="geekalgo.com" width="22px" src="https://geekalgo.com/wp-content/uploads/2021/08/cropped-image.png" />][website]
+[<img align="left" alt="Harry Patlow | Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />][twitter]
+[<img align="left" alt="Harry Patlow | Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stack]
 
 
 <br />
@@ -37,19 +37,26 @@
 
 ---
 
-### 💼 Paltow's Inventory
+## 💼 Paltow's Inventory
+
+### Primary
+
+<img align="left" alt="Django" width="52px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />
+<img align="left" alt="React" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<br/>
+<br/>
+
+
+### Secondary
 
 <img align="left" alt="Python" width="26px" src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" />
-<img align="left" alt="Django" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Wordpress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="SQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHD_0z-rQiqFdC16T_-kr1EJWYAsYzJQpCA&usqp=CAU" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
@@ -57,7 +64,7 @@
 
 ---
 
-### 🌎 Patlow Understands
+## 🌎 Patlow Understands
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/1024px-United-states_flag_icon_round.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/1200px-United-kingdom_flag_icon_round.svg.png" />
@@ -74,7 +81,7 @@
 <img align="left" alt="Android Studio" width="26px" src="https://icones.pro/wp-content/uploads/2021/04/icone-robot-android-vert.png" />
 <img align="left" alt="Swift" width="26px" src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
 
 <br />
 <br />
@@ -93,26 +100,11 @@
 
 ➡️ [more blog posts...](https://geekalgo.com)
 
----
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-</details>
-
-
-  <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 
 [website]: https://geekalgo.com
 [twitter]: https://twitter.com/patlowpat
-[instagram]: https://www.instagram.com/geekalgo/
+[stack]: https://stackoverflow.com/c/binary-crew/questions
