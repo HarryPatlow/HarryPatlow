@@ -1,15 +1,16 @@
-# Hi there, It's Patlow - aka [Geekalgo][website]  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, It's Patlow - Founder @[Geekalgo][website]  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 [![Website](https://img.shields.io/website?label=geekalgo.com&style=for-the-badge&url=https://geekalgo.com/)](https://geekalgo.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/patlowpat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/patlowpat)
+![image](https://img.shields.io/badge/Patlow%231618-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 ![About Harry Patlow](https://github.com/HarryPatlow/HarryPatlow/blob/main/READMEIMGS/about2.gif)
 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Master Android App Developement
+- 🥅 2022 Goals: Master iOS/Web/Android App Developement
 - ⚡ Fun fact: I love to Draw, Read Books and Play Games
 <br>
 
@@ -27,37 +28,29 @@
 
 ---
 
- ### 📈 Patlow's GitHub Stats
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=HarryPatlow.id)
-
-  <img height="180em" alt="Patlow's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HarryPatlow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-  <img height="180em" alt="Patlow's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPatlow" />
-
----
-
 ## 💼 Paltow's Inventory
 
-### Primary
-
-<img align="left" alt="Django" width="52px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />
-<img align="left" alt="React" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+### Frameworks
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+![image](https://img.shields.io/badge/RESTful%20API-783C3D?style=for-the-badge&logo=Django&logoColor=white)
+![image](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=black)
+![image](https://img.shields.io/badge/React-262626?style=for-the-badge&logo=React&logoColor=#61DAFB)
+![image](https://img.shields.io/badge/Vue-white?style=for-the-badge&logo=Vue.js&logoColor=##4FC08D)
+![image](https://img.shields.io/badge/TailwindCSS-161D2D?style=for-the-badge&logo=TailwindCSS&logoColor=##4FC08D)
+![image](https://img.shields.io/badge/Bootstrap-8109F9?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 <br/>
 <br/>
 
 
-### Secondary
+### Languages
 
-<img align="left" alt="Python" width="26px" src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" />
-<img align="left" alt="SQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHD_0z-rQiqFdC16T_-kr1EJWYAsYzJQpCA&usqp=CAU" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![image](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=black)
+![image](https://img.shields.io/badge/Typescript-007ACB?style=for-the-badge&logo=TypeScript&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![image](https://img.shields.io/badge/CSS-0077BD?style=for-the-badge&logo=CSS3&logoColor=white)
+![image](https://img.shields.io/badge/Objective%20C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 
 <br />
 <br />
@@ -77,10 +70,9 @@
 
 ### 🔨 Ongoing
 
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/HarryPatlow/HarryPatlow/main/READMEIMGS/875-8753366_flask-framework-logo-svg-removebg-preview.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://icones.pro/wp-content/uploads/2021/04/icone-robot-android-vert.png" />
-<img align="left" alt="Swift" width="26px" src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
 
 <br />
@@ -108,3 +100,4 @@
 [website]: https://geekalgo.com
 [twitter]: https://twitter.com/patlowpat
 [stack]: https://stackoverflow.com/c/binary-crew/questions
+
