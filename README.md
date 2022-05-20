@@ -57,17 +57,6 @@
 
 ---
 
-## 🌎 Patlow Understands
-
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/1024px-United-states_flag_icon_round.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/1200px-United-kingdom_flag_icon_round.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/HarryPatlow/HarryPatlow/main/READMEIMGS/34-349083_round-germany-flag-png-transparent-image-circle-german-removebg-preview.png" />
-
-<br />
-<br />
-
----
-
 ### 🔨 Ongoing
 
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -79,6 +68,18 @@
 <br />
 
 ---
+
+## 🌎 Patlow Understands
+
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/1024px-United-states_flag_icon_round.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/1200px-United-kingdom_flag_icon_round.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/HarryPatlow/HarryPatlow/main/READMEIMGS/34-349083_round-germany-flag-png-transparent-image-circle-german-removebg-preview.png" />
+
+<br />
+<br />
+
+---
+
 
 ### 📕 Latest Blog Posts
 
